@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confecciones Raqui</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="img/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="img/favicon.svg" />
+    <link rel="shortcut icon" href="img/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Confecciones Raqui" />
+    <link rel="manifest" href="img/site.webmanifest" />
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-container">
+                    <img src="img/logo.jpg" alt="Confecciones Raqui" class="logo">
+                </div>
+                <div class="header-text">
+                    <h1>Confecciones Raqui</h1>
+                    <p class="subtitle">Descubre nuestra colección de prendas auténticas que representan la rica herencia cultural de Panamá</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <!-- Botón de filtro móvil agregado -->
+        <button id="mobileFilterBtn" class="mobile-filter-btn">
+            <i class="fas fa-filter"></i> Filtrar Productos
+        </button>
+        
+        <!-- Contenedor de filtros con ID agregado -->
+        <div class="filters" id="filtersContainer">
+            <button class="filter-btn active" data-filter="all">
+                <i class="fas fa-star"></i> Todas
+            </button>
+            <button class="filter-btn" data-filter="camisolas">
+                <i class="fas fa-tshirt"></i> Camisolas
+            </button>
+            <button class="filter-btn" data-filter="chambras">
+                <i class="fas fa-vest"></i> Chambras
+            </button>
+            <button class="filter-btn" data-filter="pollerones">
+                <i class="fas fa-skirt"></i> Pollerones
+            </button>
+            <button class="filter-btn" data-filter="camisas-tonosieñas">
+                <i class="fas fa-shirt"></i> Camisas Tonosieñas
+            </button>
+            <button class="filter-btn" data-filter="peticotes">
+                <i class="fas fa-skirt"></i> Peticotes
+            </button>
+        </div>
+
+        <!-- Versión invoca json con productos. Puede evolucionar a un api --> 
+        <div class="products-container">
+            <div class="products-grid" id="products-grid">
+                <!-- Los productos se cargarán dinámicamente aquí -->
+                <div class="loading">
+                    <i class="fas fa-spinner fa-spin"></i> Cargando productos...
+                </div>
+            </div>
+        </div>
+        <!-- Modal para imagen grande -->
+        <div id="imageModal" class="modal">
+            <span class="close" id="closeModal">&times;</span>
+            <img class="modal-content" id="modalImage">
+        </div>
+    </div>
+
+    <!-- Agregar justo antes del cierre del body </body> -->
+
+<!-- Botón flotante de WhatsApp -->
+<div class="whatsapp-float">
+    <a href="https://wa.me/50766872791" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+</div>
+
+<!-- Botón flotante para ir arriba -->
+<button id="backToTopBtn" class="back-to-top" title="Ir al inicio">
+    <i class="fas fa-arrow-up"></i>
+</button>
+
+<!-- Popup de WhatsApp -->
+<div id="whatsappPopup" class="whatsapp-popup">
+    <div class="popup-content">
+        <span class="close-popup">&times;</span>
+        <p>¿Buscas algo especial? Escríbenos.</p>
+        <a href="https://wa.me/50766872791" target="_blank" class="whatsapp-btn">
+            <i class="fab fa-whatsapp"></i> Enviar mensaje
+        </a>
+    </div>
+</div>
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">Confecciones Raqui</div>
+            <p>Preservando y compartiendo la rica tradición folklorica Panameña</p>
+            <p class="copyright">© <span id="current-year"></span> Todos los derechos reservados | Confecciones Raqui</p>
+            <p class="powered-by" >Powered by <strong><a href="https://jasm-darktech.net" target="_blank">JasmDarkTech</a></strong></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
