@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Camisola con Mundillo",
+        "category": "camisolas",
+        "image": "img/camisola1.jpg",
+        "description": "Camisola artesanal con finos encajes de mundillo; ideal para un look auténtico y sofisticado.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20la%20Camisola%20con%20Mundillo",
+        "categoryLabel": "Camisola"
+    },
+    {
+        "id": 2,
+        "name": "Camisola con Mundillo",
+        "category": "camisolas",
+        "image": "img/camisola2.jpg",
+        "description": "Camisola artesanal con finos encajes de mundillo; ideal para un look auténtico y sofisticado.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20la%20Camisola%20con%20Mundillo",
+        "categoryLabel": "Camisola"
+    },
+    {
+        "id": 3,
+        "name": "Camisola con Mundillo",
+        "category": "camisolas",
+        "image": "img/camisola3.jpg",
+        "description": "Camisola artesanal con finos encajes de mundillo; ideal para un look auténtico y sofisticado.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20la%20Camisola%20con%20Mundillo",
+        "categoryLabel": "Camisola"
+    },
+    {
+        "id": 4,
+        "name": "Camisola con Mundillo",
+        "category": "camisolas",
+        "image": "img/camisola4.jpg",
+        "description": "Camisola artesanal con finos encajes de mundillo; ideal para un look auténtico y sofisticado.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20la%20Camisola%20con%20Mundillo",
+        "categoryLabel": "Camisola"
+    },
+    {
+        "id": 5,
+        "name": "Camisola con Mundillo",
+        "category": "camisolas",
+        "image": "img/camisola5.jpg",
+        "description": "Camisola artesanal con finos encajes de mundillo; ideal para un look auténtico y sofisticado.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20la%20Camisola%20con%20Mundillo",
+        "categoryLabel": "Camisola"
+    },
+    {
+        "id": 6,
+        "name": "Chambra",
+        "category": "chambras",
+        "image": "img/chambra1.jpg",
+        "description": "Blusa fresca y elegante con detalles tradicionales; perfecta para lucir con orgullo panameño.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20una%20Chambra",
+        "categoryLabel": "Chambra"
+    },
+    {
+        "id": 7,
+        "name": "Chambra",
+        "category": "chambras",
+        "image": "img/chambra2.jpg",
+        "description": "Blusa fresca y elegante con detalles tradicionales; perfecta para lucir con orgullo panameño.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20una%20Chambra",
+        "categoryLabel": "Chambra"
+    },
+    {
+        "id": 8,
+        "name": "Chambra",
+        "category": "chambras",
+        "image": "img/chambra3.jpg",
+        "description": "Blusa fresca y elegante con detalles tradicionales; perfecta para lucir con orgullo panameño.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20una%20Chambra",
+        "categoryLabel": "Chambra"
+    },
+    {
+        "id": 9,
+        "name": "Chambra",
+        "category": "chambras",
+        "image": "img/chambra4.jpg",
+        "description": "Blusa fresca y elegante con detalles tradicionales; perfecta para lucir con orgullo panameño.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20una%20Chambra",
+        "categoryLabel": "Chambra"
+    },
+    {
+        "id": 10,
+        "name": "Chambra",
+        "category": "chambras",
+        "image": "img/chambra5.jpg",
+        "description": "Blusa fresca y elegante con detalles tradicionales; perfecta para lucir con orgullo panameño.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20una%20Chambra",
+        "categoryLabel": "Chambra"
+    },
+    {
+        "id": 11,
+        "name": "Chambra",
+        "category": "chambras",
+        "image": "img/chambra6.jpg",
+        "description": "Blusa fresca y elegante con detalles tradicionales; perfecta para lucir con orgullo panameño.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20una%20Chambra",
+        "categoryLabel": "Chambra"
+    },
+    {
+        "id": 12,
+        "name": "Peticotes",
+        "category": "peticotes",
+        "image": "img/peticotes1.jpg",
+        "description": "Base esencial para tu pollera, el peticote aporta volumen y realza la belleza del traje típico.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20Peticotes",
+        "categoryLabel": "Peticotes"
+    },
+    {
+        "id": 13,
+        "name": "Peticotes",
+        "category": "peticotes",
+        "image": "img/peticotes2.jpg",
+        "description": "Base esencial para tu pollera, el peticote aporta volumen y realza la belleza del traje típico.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20Peticotes",
+        "categoryLabel": "Peticotes"
+    },
+    {
+        "id": 14,
+        "name": "Pollerón",
+        "category": "pollerones",
+        "image": "img/polleron1.jpg",
+        "description": "Pollerón colorido y tradicional que resalta tu esencia cultural con estilo y elegancia.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20el%20Pollerón",
+        "categoryLabel": "Pollerones"
+    },
+    {
+        "id": 15,
+        "name": "Camisa Tonosieña",
+        "category": "camisas-tonosieñas",
+        "image": "img/c-tonosiena1.jpg",
+        "description": "Camisa típica con encanto santeño y de la región de Tonosí; combina tradición, frescura y elegancia en cada costura.",
+        "whatsappLink": "https://wa.me/50766872791?text=Hola,%20estoy%20interesado%20en%20la%20Camisa%20Tonosieña",
+        "categoryLabel": "Camisa Tonosieña"
+    }
+]
